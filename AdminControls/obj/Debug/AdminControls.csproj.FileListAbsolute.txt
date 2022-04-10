@@ -6,3 +6,4 @@ C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.
 C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.csproj.GenerateResource.Cache
 C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.dll
 C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.pdb
+C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.csprojResolveAssemblyReference.cache
