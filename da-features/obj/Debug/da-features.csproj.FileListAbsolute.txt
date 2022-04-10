@@ -1,0 +1,11 @@
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\bin\Debug\da-features.exe.config
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\obj\Debug\da-features.csprojResolveAssemblyReference.cache
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\obj\Debug\da_features.Properties.Resources.resources
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\obj\Debug\da-features.csproj.GenerateResource.Cache
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\bin\Debug\da-features.exe
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\bin\Debug\da-features.pdb
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\bin\Debug\AdminControls.dll
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\bin\Debug\AdminControls.pdb
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\obj\Debug\da_features.FrmTest.resources
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\obj\Debug\da-features.exe
+C:\Users\hodan\Desktop\da-hk6\da-features\da-features\obj\Debug\da-features.pdb

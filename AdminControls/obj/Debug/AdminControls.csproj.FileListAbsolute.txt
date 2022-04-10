@@ -1,0 +1,8 @@
+C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\bin\Debug\AdminControls.dll
+C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\bin\Debug\AdminControls.pdb
+C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.KeSachThuVien.resources
+C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.Properties.Resources.resources
+C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.SachThuVien.resources
+C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.csproj.GenerateResource.Cache
+C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.dll
+C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.pdb

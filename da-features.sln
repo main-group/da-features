@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "da-features", "da-features\da-features.csproj", "{F4CBDCB5-7E7E-40EA-A210-57F756F06AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminControls", "AdminControls\AdminControls.csproj", "{5EF580ED-17F9-471F-8D99-008598C20E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4CBDCB5-7E7E-40EA-A210-57F756F06AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CBDCB5-7E7E-40EA-A210-57F756F06AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CBDCB5-7E7E-40EA-A210-57F756F06AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CBDCB5-7E7E-40EA-A210-57F756F06AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF580ED-17F9-471F-8D99-008598C20E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF580ED-17F9-471F-8D99-008598C20E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF580ED-17F9-471F-8D99-008598C20E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF580ED-17F9-471F-8D99-008598C20E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
