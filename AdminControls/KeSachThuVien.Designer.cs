@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.fpnlHienThi = new System.Windows.Forms.FlowLayoutPanel();
-            this.pnlTieuDe = new System.Windows.Forms.Panel();
             this.lblTenKeSach = new System.Windows.Forms.Label();
+            this.pnlTieuDe = new System.Windows.Forms.Panel();
             this.pnlTieuDe.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -39,17 +39,8 @@
             this.fpnlHienThi.BackColor = System.Drawing.Color.LemonChiffon;
             this.fpnlHienThi.Location = new System.Drawing.Point(13, 13);
             this.fpnlHienThi.Name = "fpnlHienThi";
-            this.fpnlHienThi.Size = new System.Drawing.Size(260, 343);
+            this.fpnlHienThi.Size = new System.Drawing.Size(260, 328);
             this.fpnlHienThi.TabIndex = 0;
-            // 
-            // pnlTieuDe
-            // 
-            this.pnlTieuDe.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.pnlTieuDe.Controls.Add(this.lblTenKeSach);
-            this.pnlTieuDe.Location = new System.Drawing.Point(13, 362);
-            this.pnlTieuDe.Name = "pnlTieuDe";
-            this.pnlTieuDe.Size = new System.Drawing.Size(260, 59);
-            this.pnlTieuDe.TabIndex = 1;
             // 
             // lblTenKeSach
             // 
@@ -61,6 +52,15 @@
             this.lblTenKeSach.Text = "lblTenKeSach";
             this.lblTenKeSach.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // pnlTieuDe
+            // 
+            this.pnlTieuDe.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.pnlTieuDe.Controls.Add(this.lblTenKeSach);
+            this.pnlTieuDe.Location = new System.Drawing.Point(13, 362);
+            this.pnlTieuDe.Name = "pnlTieuDe";
+            this.pnlTieuDe.Size = new System.Drawing.Size(260, 59);
+            this.pnlTieuDe.TabIndex = 1;
+            // 
             // KeSachThuVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -70,6 +70,7 @@
             this.Controls.Add(this.fpnlHienThi);
             this.Name = "KeSachThuVien";
             this.Size = new System.Drawing.Size(286, 434);
+            this.Load += new System.EventHandler(this.KeSachThuVien_Load);
             this.pnlTieuDe.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -78,7 +79,7 @@
         #endregion
 
         private System.Windows.Forms.FlowLayoutPanel fpnlHienThi;
-        private System.Windows.Forms.Panel pnlTieuDe;
         private System.Windows.Forms.Label lblTenKeSach;
+        private System.Windows.Forms.Panel pnlTieuDe;
     }
 }

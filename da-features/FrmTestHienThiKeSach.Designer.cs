@@ -62,6 +62,8 @@
             // 
             // fpnlDSKeSach
             // 
+            this.fpnlDSKeSach.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.fpnlDSKeSach.AutoScroll = true;
             this.fpnlDSKeSach.Location = new System.Drawing.Point(12, 12);
             this.fpnlDSKeSach.Name = "fpnlDSKeSach";

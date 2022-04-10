@@ -34,5 +34,16 @@ namespace AdminControls
             stv.Name = string.Format("lbl{0}", soLuong++);
             fpnlHienThi.Controls.Add(stv);
         }
+
+        private void KeSachThuVien_Load(object sender, EventArgs e)
+        {
+            for (int i = 0; i < 14; i++)
+            {
+                SachThuVien stv = new SachThuVien();
+                stv.Name = string.Format("stvNum{0}", i);
+                stv.SetTenSach(stv.Name);
+                fpnlHienThi.Controls.Add(stv);
+            }
+        }
     }
 }
