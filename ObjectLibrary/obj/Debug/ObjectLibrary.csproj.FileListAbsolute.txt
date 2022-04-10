@@ -1,0 +1,4 @@
+C:\Users\hodan\Desktop\da-hk6\da-features\ObjectLibrary\bin\Debug\ObjectLibrary.dll
+C:\Users\hodan\Desktop\da-hk6\da-features\ObjectLibrary\bin\Debug\ObjectLibrary.pdb
+C:\Users\hodan\Desktop\da-hk6\da-features\ObjectLibrary\obj\Debug\ObjectLibrary.dll
+C:\Users\hodan\Desktop\da-hk6\da-features\ObjectLibrary\obj\Debug\ObjectLibrary.pdb

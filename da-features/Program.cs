@@ -16,7 +16,7 @@ namespace da_features
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmTest());
+            Application.Run(new FrmTestHienThiKeSach());
         }
     }
 }

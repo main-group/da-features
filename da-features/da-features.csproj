@@ -44,16 +44,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataSet_DB_DA_FEATURES.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_DB_DA_FEATURES.xsd</DependentUpon>
+    </Compile>
     <Compile Include="FrmTest.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmTest.Designer.cs">
       <DependentUpon>FrmTest.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmTestHienThiKeSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTestHienThiKeSach.Designer.cs">
+      <DependentUpon>FrmTestHienThiKeSach.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmTest.resx">
       <DependentUpon>FrmTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTestHienThiKeSach.resx">
+      <DependentUpon>FrmTestHienThiKeSach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -64,6 +78,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="DataSet_DB_DA_FEATURES.xsc">
+      <DependentUpon>DataSet_DB_DA_FEATURES.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_DB_DA_FEATURES.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_DB_DA_FEATURES.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet_DB_DA_FEATURES.xss">
+      <DependentUpon>DataSet_DB_DA_FEATURES.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -81,6 +106,10 @@
     <ProjectReference Include="..\AdminControls\AdminControls.csproj">
       <Project>{5ef580ed-17f9-471f-8d99-008598c20e5d}</Project>
       <Name>AdminControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjectLibrary\ObjectLibrary.csproj">
+      <Project>{f078541d-e5a0-41a8-8095-3715700b42b3}</Project>
+      <Name>ObjectLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
