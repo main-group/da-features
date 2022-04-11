@@ -6,3 +6,12 @@ C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.
 C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.csproj.GenerateResource.Cache
 C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.dll
 C:\Users\hodan\Desktop\da-hk6\da-features\AdminControls\obj\Debug\AdminControls.pdb
+D:\GitHub\da-features\AdminControls\bin\Debug\AdminControls.dll
+D:\GitHub\da-features\AdminControls\bin\Debug\AdminControls.pdb
+D:\GitHub\da-features\AdminControls\obj\Debug\AdminControls.KeSachThuVien.resources
+D:\GitHub\da-features\AdminControls\obj\Debug\AdminControls.Properties.Resources.resources
+D:\GitHub\da-features\AdminControls\obj\Debug\AdminControls.SachThuVien.resources
+D:\GitHub\da-features\AdminControls\obj\Debug\AdminControls.csproj.GenerateResource.cache
+D:\GitHub\da-features\AdminControls\obj\Debug\AdminControls.csproj.CoreCompileInputs.cache
+D:\GitHub\da-features\AdminControls\obj\Debug\AdminControls.dll
+D:\GitHub\da-features\AdminControls\obj\Debug\AdminControls.pdb

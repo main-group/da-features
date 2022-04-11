@@ -3,3 +3,8 @@ C:\Users\hodan\Desktop\da-hk6\da-features\ObjectLibrary\bin\Debug\ObjectLibrary.
 C:\Users\hodan\Desktop\da-hk6\da-features\ObjectLibrary\obj\Debug\ObjectLibrary.dll
 C:\Users\hodan\Desktop\da-hk6\da-features\ObjectLibrary\obj\Debug\ObjectLibrary.pdb
 C:\Users\hodan\Desktop\da-hk6\da-features\ObjectLibrary\obj\Debug\ObjectLibrary.csprojResolveAssemblyReference.cache
+D:\GitHub\da-features\ObjectLibrary\bin\Debug\ObjectLibrary.dll
+D:\GitHub\da-features\ObjectLibrary\bin\Debug\ObjectLibrary.pdb
+D:\GitHub\da-features\ObjectLibrary\obj\Debug\ObjectLibrary.csproj.CoreCompileInputs.cache
+D:\GitHub\da-features\ObjectLibrary\obj\Debug\ObjectLibrary.dll
+D:\GitHub\da-features\ObjectLibrary\obj\Debug\ObjectLibrary.pdb
